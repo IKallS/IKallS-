@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+IKallS!"/>
 
-<p align="center">- 📟 Graduate Mechatronics Technician at IFSul Charqueadas in 2022.</p> 
-<p align="center">- 👨‍💻 Student of Software Engineer at PUCRS.</p>
+<p align="center">- 👨‍💻 Student of Systems Analysis and Development.</p>
 
 <h1 align="center"></h1>
 
